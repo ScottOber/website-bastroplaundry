@@ -1,0 +1,50 @@
+body {
+	background-color: #ADC1C7;
+}
+.hrgreen {
+	color: #17E112;
+}
+.blu_14 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000099;
+}
+p {
+	margin: 3px;
+}
+.blu_18 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000099;
+}
+.spacer_5 {
+	font-size: 5px;
+}
+.grn_18 {
+	font-size: 18px;
+	color: #17E112;
+}
+.grn_24 {
+	font-size: 24px;
+	color: #17E112;
+}
+.spacer_1 {
+	font-size: 1px;
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.blu_12 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000099;
+}.blu_22 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #000099;
+}
