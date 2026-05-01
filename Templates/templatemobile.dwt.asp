@@ -116,8 +116,8 @@ p {
 </table>
 <p align="center" class="spacer_5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p align="center" class="copyright"><span class="style1">bastroplaundry@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;</span>&nbsp;&nbsp;</p>
-<p align="center" class="copyright">512-332-2020</p>
+<p align="center" class="copyright">&nbsp;</p>
 <p align="center" class="spacer_5">&nbsp;&nbsp;&nbsp; </p>
-<p align="center" class="copyright">Copyright 2022 ~ Spin City Laundry ~ Bastrop, TX </p>
+<p align="center" class="copyright">Copyright 2026 ~ Spin City Laundry ~ Bastrop, TX </p>
 </body>
 </html>
